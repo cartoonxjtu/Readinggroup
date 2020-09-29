@@ -10,3 +10,7 @@
 
 ### 课程学习（主持人：）
 
+#### Spatial Transformer Networks
+#### Deformable Convolutional Networks
+#### High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks
+
