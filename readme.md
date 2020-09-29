@@ -4,9 +4,9 @@
 
 ### 课程学习（主讲人：）
 
-### paper
+### paper reading
 
-#### Name: 
+#### Recovering High Dynamic Range Radiance Maps from Photographs 
 
 ## 第二章  数字图像处理基础
 
