@@ -29,6 +29,10 @@
 
 ## 第六章 特征点与特征描述子
 
+- #### Self-supervised Keypoint Learning — A Review
+
+- #### Unsupervised Learning of Object Keypoints for Perception and Control
+
 ## 第七章 金字塔与多尺度理论
 
 - #### Feature Pyramid Networks for Object Detection
