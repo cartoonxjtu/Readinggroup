@@ -23,13 +23,15 @@
 
 - #### AutoCalib: Automatic Traffic Camera Calibration at Scale
 
-## 第四章
+## 第四章 光度模型
 
-## 第五章
+## 第五章 Hough变换
 
-## 第六章
+## 第六章 特征点与特征描述子
 
-## 第七章
+## 第七章 金字塔与多尺度理论
+
+- #### Feature Pyramid Networks for Object Detection
 
 ## 第八章
 
