@@ -17,7 +17,11 @@
 
 - #### High-frequency Component Helps Explain the Generalization of Convolutional Neural Networks
 
-## 第三章
+## 第三章 相机模型
+
+### 课程学习（主持人：）
+
+- #### AutoCalib: Automatic Traffic Camera Calibration at Scale
 
 ## 第四章
 
