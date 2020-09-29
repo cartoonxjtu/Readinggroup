@@ -25,6 +25,10 @@
 
 ## 第四章 光度模型
 
+- #### Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild
+
+- 
+
 ## 第五章 Hough变换
 
 ## 第六章 特征点与特征描述子
