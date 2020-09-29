@@ -55,6 +55,10 @@
 
 ## 第十二章 运动与跟踪
 
+- #### Learning Spatiotemporal Features with 3D Convolutional Networks
+
+- #### X3D 
+
 ## 第十三章 卷积与卷积神经网络
 
 ## 第十四章 网络结构
