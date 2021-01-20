@@ -57,7 +57,7 @@
 
 ## 第九章 多视觉几何
 
-PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing
+- #### PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing
 
 
 
