@@ -51,21 +51,39 @@
 
 ## 第八章 单视几何
 
-- 
+- #### Single View Metrology (https://link.springer.com/article/10.1023/A:1026598000963)
+
+- #### Tour Into the Picture: Using a Spidery Mesh Interface to Make Animation from a Single Image
 
 ## 第九章 多视觉几何
 
+PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing
+
+
+
 ## 第十章 摄像机标定
+
+- #### A Flexible New Technique for Camera Calibration
 
 ## 第十一章 三维重构
 
 - #### Unsupervised Structure from Motion
+
+- #### Learning Depth with convolutional spatial propagation network
 
 ## 第十二章 运动与跟踪
 
 - #### Learning Spatiotemporal Features with 3D Convolutional Networks
 
 - #### X3D 
+
+- #### Objects as Points
+
+- #### Joint Monocular 3D Detection and Tracking
+
+- #### Tracking Objects as Points
+
+- #### High Performance Visual Tracking with Siamese Region Proposal Network Code
 
 ## 第十三章 卷积与卷积神经网络
 
@@ -80,3 +98,7 @@
 ## 第十七章 三维的其他课题
 
 ## 第十八章 密度估计、自编码与GAN
+
+## 第十九章 自监督和无监督学习
+
+## 第二十章 Transformer和全局注意力机制
