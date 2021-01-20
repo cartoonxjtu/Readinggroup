@@ -27,9 +27,13 @@
 
 - #### Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild
 
-- 
+- #### Semantic Analysis of (Reflectional) Visual Symmetry: A Human-Centred Computational Model for Declarative Explainability
+
+- #### Learning Non-Lambertian Object Intrinsics across ShapeNet Categories
 
 ## 第五章 Hough变换
+
+- #### Deep Hough Voting for 3D Object Detection in Point Clouds
 
 ## 第六章 特征点与特征描述子
 
@@ -41,9 +45,13 @@
 
 - #### Feature Pyramid Networks for Object Detection
 
+- #### A Multigrid Method for Efficiently Training Video Models
+
+- #### SlowFast Networks for Video Recognition
+
 ## 第八章 单视几何
 
-- #### 
+- 
 
 ## 第九章 多视觉几何
 
@@ -66,6 +74,8 @@
 ## 第十五章 单阶段与多阶段物体检测算法
 
 ## 第十六章 分类与回归
+
+- #### Improved Baselines with Momentum Contrastive Learning
 
 ## 第十七章 三维的其他课题
 
